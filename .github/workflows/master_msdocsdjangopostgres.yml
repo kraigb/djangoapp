@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'msdocsdjangopostgres'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_63ce5c8e7e954384b7f3713563ef267a }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_088f16170eea41128c0b3b381807b9cc }}
